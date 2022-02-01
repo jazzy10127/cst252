@@ -14,6 +14,16 @@ div#content {
     border-radius: 25px;
 
 }
+main#content{
+  margin-top:20px;
+  padding:20px;
+  padding-left:10px;
+  background-color: #4adede;
+  height: auto;
+  width: inherit;
+  border: solid 5px #0088bc;
+  border-radius: 25px;
+}
 h1, h2, h3 {
   font-family: 'Gwendolyn', cursive;
   font-family: 'Supermercado One', cursive;
