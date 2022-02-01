@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(#34c5db,#0f3238);
+    background-size: cover;
+    font-family: 'Gwendolyn', cursive;
+    font-family: 'Supermercado One', cursive;
+    padding: 25px;
+    font-size: 120%;
+    color: #FFFFFF;
+}
