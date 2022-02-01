@@ -7,7 +7,7 @@ body {
     font-size: 120%;
     color: #FFFFFF;
 }
-div#content {
+#content {
     padding: 25px;
     background-color: #4adede;
     border: solid 5px #0088bc;
