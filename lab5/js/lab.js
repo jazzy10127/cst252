@@ -6,7 +6,7 @@
  **/
 
  //define variables
- make="hondai";
+ make="hyundai";
  model="elantra";
  color="red";
  year="2020";
