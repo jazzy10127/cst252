@@ -11,3 +11,15 @@
             // Print a | between
         // Print a newline at the end
         // Print a horizontal line between
+// everyday tasks
+  //checking gas level in car
+    //checking experation dates on food
+      //turn off lights before leaving the room
+    //pay subscriptions
+    Creating a video animation:
+    1. create a story
+    2. sketch out characters and scenes
+    3. finalize characters and scenes
+    4. create scrpits
+    5. animate characters and scenes
+    6. edit and finalize animation
