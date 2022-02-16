@@ -6,11 +6,10 @@ body {
   color: #FFFFFF;
 }
 h1, h2, h3 {
-  font-family: 'Gwendolyn', cursive;
-  font-family: 'Supermercado One', cursive;
+  font-family: 'Lobster', cursive;
 }
 p{
-font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 a {
     text-decoration: none;
