@@ -1,3 +1,9 @@
+// Summary. (use period)
+// Description. (use period)
+// @link   URL
+// @file   This files defines the MyClass class.
+// @author Jasmine Hernandez.
+// @since  x.x.x
 // Print the board before each turn
     // Loop through each row
         // Loop through each space
@@ -5,4 +11,3 @@
             // Print a | between
         // Print a newline at the end
         // Print a horizontal line between
-        

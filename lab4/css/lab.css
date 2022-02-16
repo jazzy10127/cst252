@@ -1,0 +1,22 @@
+body {
+  background-color: #f8b195;
+  background-size: cover;
+  padding: 25px;
+  font-size: 150%;
+  color: #FFFFFF;
+}
+h1, h2, h3 {
+  font-family: 'Gwendolyn', cursive;
+  font-family: 'Supermercado One', cursive;
+}
+p{
+font-family: 'Lato', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
