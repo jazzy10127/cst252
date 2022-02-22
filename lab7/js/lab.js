@@ -1,28 +1,30 @@
 /**
- * Author:    Name
- * Created:   11.05.2009
+ * Author:   jasmine hernandez
+ * Created:   02/22/22
  *
- * (c) Copyright by Blub Corp.
+ * license: public domain
  **/
 
- // sortUserName - a function user input and sort the letters
- // of their name
+
  function sortUserName() {
    var userName = window.prompt("Please enter name to continue...");
    console.log("userName =", userName);
-   // split string to array
+
    var nameArray = userName.split('');
    console.log("nameArraySort =", nameArray);
-   // sort the array
+
    var nameArraySort = nameArray.sort();
    console.log("nameArraySort =", nameArraySort);
-   // join array back to a string
+
    var nameSorted = nameArraySort.join('');
    console.log("nameSorted =", nameSorted);
-   //  userName.toLower().split("").sort().join("")
+
    return nameSorted;
  }
 
- //output
- document.writeln("This looks better :")
+ document.writeln("This looks better: ")
   sortUserName(), "</br>";
+ //output
+ //document.writeln("Kinds of transportation I use: ", mytransport, "</br>";
+ //document.writeln("My Main Ride: <pre>",
+   //JSON.stringify(myMainRide, null, '\t'), "</pre>");
