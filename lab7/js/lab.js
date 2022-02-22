@@ -22,7 +22,7 @@
    return nameSorted;
  }
 
- document.writeln("This looks better: ")
+ document.writeln("This looks better: ",
   sortUserName(), "</br>";
  //output
  //document.writeln("Kinds of transportation I use: ", mytransport, "</br>";
