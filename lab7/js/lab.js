@@ -26,5 +26,3 @@
  //output
  document.writeln("This looks better :)")
   sortUserName(), "</br>";
-  document.writeln("sortUserName <pre>",
-    JSON.stringify(sortUserName, null, '\t'), "</pre>");
