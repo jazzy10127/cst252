@@ -12,7 +12,7 @@
    console.log("userName =", userName);
    // split string to array
    var nameArray = userName.split('');
-   console.log("nameArray =", nameArray);
+   console.log("nameArraySort =", nameArray);
    // sort the array
    var nameArraySort = nameArray.sort();
    console.log("nameArraySort =", nameArraySort);
@@ -24,5 +24,5 @@
  }
 
  //output
- document.writeln("This looks better :)")
+ document.writeln("This looks better :")
   sortUserName(), "</br>";
