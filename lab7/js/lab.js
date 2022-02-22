@@ -23,7 +23,7 @@
  }
 
  document.writeln("This looks better: ",
-  sortUserName(), "</br>")
+  sortUserName(), "</br>");
  //output
  //document.writeln("Kinds of transportation I use: ", mytransport, "</br>";
  //document.writeln("My Main Ride: <pre>",
