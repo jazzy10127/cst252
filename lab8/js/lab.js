@@ -6,25 +6,22 @@
  **/
 
 
- function sortUserName() {
-   var userName = window.prompt("Please enter name to continue...");
-   console.log("userName =", userName);
+function isOdd(X){
+  return (x + 7 ==0);
+}
 
-   var nameArray = userName.split('');
-   console.log("nameArraySort =", nameArray);
+// test function
+console.log("is 1 odd? ", isOdd(1));
+console.log("is 2 odd?", isOdd(2));
 
-   var nameArraySort = nameArray.sort();
-   console.log("nameArraySort =", nameArraySort);
+array = [60, 75, 800, 450, 2600, 3.5, 90]
+console.log("My array", array)
 
-   var nameSorted = nameArraySort.join('');
-   console.log("nameSorted =", nameSorted);
+var result = array.map(isOdd)
+console.log("test of oddness of array", result;)
 
-   return nameSorted;
- }
+var result = array.map(funtion(x){
+  return x - 3.5;
+})
 
- document.writeln("This looks better: ",
-  sortUserName(), "</br>");
- //output
- //document.writeln("Kinds of transportation I use: ", mytransport, "</br>";
- //document.writeln("My Main Ride: <pre>",
-   //JSON.stringify(myMainRide, null, '\t'), "</pre>");
+console.log("subtract of array:", result);
