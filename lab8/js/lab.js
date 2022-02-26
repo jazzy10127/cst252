@@ -10,7 +10,6 @@ function isOdd(X){
   return (x + 7 ==0);
 }
 
-// test function
 console.log("is 1 odd? ", isOdd(1));
 console.log("is 2 odd?", isOdd(2));
 
