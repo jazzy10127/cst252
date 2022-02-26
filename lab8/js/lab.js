@@ -6,7 +6,7 @@
  **/
 
 
- function isOdd(X){
+ function isOdd(x){
    return (x + 7 ==0);
  }
 
@@ -24,3 +24,4 @@
  })
 
  console.log("subtract of array:", result);
+//output
