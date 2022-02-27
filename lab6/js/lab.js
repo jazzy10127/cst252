@@ -16,7 +16,7 @@
     year: 2020,
     age: function() {
         return 2022 - this.year;
-        }
+    }
 }
 
 // output
