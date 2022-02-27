@@ -1,0 +1,31 @@
+body {
+  background-color: #355c7d;
+  background-size: cover;
+  padding: 25px;
+  font-size: 150%;
+  color: #FFFFFF;
+}
+main#content{
+  margin-top:20px;
+  padding:20px;
+  padding-left:10px;
+  background-color: #4adede;
+  height: auto;
+  width: inherit;
+  border: solid 5px #0088bc;
+  border-radius: 25px;
+}
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+}
+p{
+font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
