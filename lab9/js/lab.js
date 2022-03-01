@@ -10,7 +10,10 @@ document.getElementById("output")
 var oneEl = document.createElement("button");
 var teoEl = document.createElement("button");
 outputEl.appendChild(oneEl);
-outputEl.appendChild(twoEl)
-oneEl.style.color = "pink"
-twoEl.style.color = "orange"
+outputEl.appendChild(twoEl);
+oneEl.style.color = "pink";
+twoEl.style.color = "orange";
+oneEl.innerHtml = "color";
+twoEl.innerHtml = "change";
+
 //output
