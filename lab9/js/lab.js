@@ -11,9 +11,12 @@ var oneEl = document.createElement("button");
 var teoEl = document.createElement("button");
 outputEl.appendChild(oneEl);
 outputEl.appendChild(twoEl);
-oneEl.style.color = "pink";
-twoEl.style.color = "orange";
-oneEl.innerHtml = "color";
-twoEl.innerHtml = "change";
-
+oneEl.style.color = "brown";
+twoEl.style.color = "white";
+oneEl.innerHtml = "Dog";
+twoEl.innerHtml = "Cat";
+oneEl.style.backgroundcolor = "white";
+twoEl.style.backgroundcolor = "black";
+oneEl.style.fontSize = "15px";
+twoEl.style.fontSize = "15px";
 //output
