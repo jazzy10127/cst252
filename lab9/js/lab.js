@@ -6,5 +6,11 @@
  **/
 
 
-var getElementByld()
+document.getElementById("output")
+var oneEl = document.createElement("button");
+var teoEl = document.createElement("button");
+outputEl.appendChild(oneEl);
+outputEl.appendChild(twoEl)
+oneEl.style.color = "pink"
+twoEl.style.color = "orange"
 //output
