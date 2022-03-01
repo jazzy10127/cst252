@@ -6,7 +6,7 @@
  **/
 
 
-document.getElementById("output")
+document.getElementById("output");
 var oneEl = document.createElement("button");
 var teoEl = document.createElement("button");
 outputEl.appendChild(oneEl);
