@@ -5,5 +5,6 @@
  * license: public domain
  **/
 
-$()
+$(.results).append("<button id=my-button> click here ");
+
 //output
