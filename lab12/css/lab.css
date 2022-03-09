@@ -25,6 +25,7 @@ button#my-button {
   border: solid 1px black;
   height: 200px;
   margin-top: 10px;
+  background-color: white;
 }
 
 #output p{
