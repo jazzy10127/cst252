@@ -40,13 +40,13 @@ button#my-button {
 }
 
 #output p:nth-child(even){
-  background-color: grey;
+  background-color: #f394ff;
   color: white;
   text-align: left;
 }
 
 #output p:nth-child(odd){
-  background-color: blue;
+  background-color: #706bff;
   color: white;
   text-align: right;
 }
