@@ -1,0 +1,64 @@
+body {
+  background-color: #706bff;
+  background-size: cover;
+  padding: 25px;
+  font-size: 150%;
+  color: #FFFFFF;
+}
+main#content{
+  margin-top:20px;
+  padding:20px;
+  padding-left:10px;
+  background-color: #2924bd;
+  height: auto;
+  width: inherit;
+  border: solid 5px #ffffff;
+  border-radius: 25px;
+}
+input#user-name {
+    font-size: 25px;
+}
+button#my-button {
+    font-size: 25px;
+}
+#output {
+  border: solid 1px black;
+  height: 200px;
+  margin-top: 10px;
+}
+
+#output p{
+  display: inline-block;
+  margin: 0;
+  width: 50%;
+  padding: 3px;
+  border-radius: 10px;
+  font-size: 14px;
+  clear: both;
+}
+
+#output p:nth-child(even){
+  background-color: grey;
+  color: white;
+  text-align: left;
+}
+
+#output p:nth-child(odd){
+  background-color: blue;
+  color: white;
+  text-align: right;
+}
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+}
+p{
+font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
