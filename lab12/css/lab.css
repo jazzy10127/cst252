@@ -26,6 +26,7 @@ button#my-button {
   height: 200px;
   margin-top: 10px;
   background-color: white;
+
 }
 
 #output p{
@@ -34,7 +35,7 @@ button#my-button {
   width: 50%;
   padding: 3px;
   border-radius: 10px;
-  font-size: 14px;
+  font-size: 20px;
   clear: both;
 }
 
