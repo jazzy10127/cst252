@@ -1,5 +1,5 @@
 body {
-  background-color: #706bff;
+  background-color: #050180;
   background-size: cover;
   padding: 25px;
   font-size: 150%;
@@ -9,7 +9,7 @@ main#content{
   margin-top:20px;
   padding:20px;
   padding-left:10px;
-  background-color: #2924bd;
+  background-color: #c70202;
   height: auto;
   width: inherit;
   border: solid 5px #ffffff;
@@ -51,10 +51,10 @@ button#my-button {
   text-align: right;
 }
 h1, h2, h3 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Bebas Neue', cursive;
 }
 p{
-font-family: 'Roboto', sans-serif;
+font-family: 'Fredoka', sans-serif
 }
 a {
     text-decoration: none;
