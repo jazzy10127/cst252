@@ -8,13 +8,19 @@
 for (let i = 1; i <=200; i++) {
   var buildStr = "";
  if(i % 3 ==0) {
-    buildStr += "Fizz";
+    buildStr += "Fizz!"
+    oneLongString + = num + "Fizz!<br>";
+    $("#output").html(oneLongString);
   }
   if( i % 5 == 0) {
     buildStr += "Buzz!";
+    oneLongString + = num + "Buzz!<br>";
+    $("#output").html(oneLongString);
   }
   if( i % 7 == 0) {
     buildStr += "Boom!";
+    oneLongString + = num + "Boom!<br>";
+    $("#output").html(oneLongString);
   }
 
   if(buildStr !=""){
