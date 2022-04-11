@@ -1,0 +1,66 @@
+body {
+  background-color: #050180;
+  background-size: cover;
+  padding: 25px;
+  font-size: 150%;
+  color: #FFFFFF;
+}
+main#content{
+  margin-top:20px;
+  padding:20px;
+  padding-left:10px;
+  background-color: #c70202;
+  height: auto;
+  width: inherit;
+  border: solid 5px #ffffff;
+  border-radius: 25px;
+}
+input#user-name {
+    font-size: 25px;
+}
+button#my-button {
+    font-size: 25px;
+}
+#output {
+  border: solid 1px black;
+  height: 200px;
+  margin-top: 10px;
+  background-color: white;
+
+}
+
+#output p{
+  display: inline-block;
+  margin: 0;
+  width: 50%;
+  padding: 3px;
+  border-radius: 10px;
+  font-size: 20px;
+  clear: both;
+}
+
+#output p:nth-child(even){
+  background-color: #f394ff;
+  color: white;
+  text-align: left;
+}
+
+#output p:nth-child(odd){
+  background-color: #706bff;
+  color: white;
+  text-align: right;
+}
+h1, h2, h3 {
+  font-family: 'Bebas Neue', cursive;
+}
+p{
+font-family: 'Fredoka', sans-serif
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
