@@ -5,6 +5,10 @@ body {
   font-size: 150%;
   color: #FFFFFF;
 }
+.jumbotron.text-center {
+  color:white;
+    background-color: #69d9ff;
+}
 main#content{
   margin-top:20px;
   padding:20px;
